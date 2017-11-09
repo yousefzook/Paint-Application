@@ -27,4 +27,4 @@ to choose what type to save the painting to:
 
 
 # Credits:
-###### contributor [Youssef Zook](https://github.com/youssef-ahmed)
+###### contributor [Youssef Ahmed](https://github.com/youssef-ahmed)
